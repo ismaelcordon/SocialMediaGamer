@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SocialMediaGamer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="transitionname_picture">transitionnamepicture</string>
+
+    <string name="activity_main_login">LOGIN</string>
+    <string name="activity_main_email">Email</string>
+    <string name="activity_main_contraseña">Password</string>
+    <string name="activity_main_btn_login">Login</string>
+    <string name="activity_main_no_account">¿You don\'t have account?</string>
+    <string name="activity_main_go_register">CLICK HERE</string>
+
+    <string name="menu_sign_out">Sign out</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_filters">Filters</string>
+    <string name="menu_chats">Chats</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="chat_activity_message">Message ...</string>
+
+    <string name="activity_user_profile_post">Posts</string>
+    <string name="activity_user_profile_phone">Phone</string>
+
+    <string name="no_connection">No internet connection! Cannot be translated!</string>
+</resources>
